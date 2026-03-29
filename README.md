@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-* **Name:** Rasesh Varshney
-* **Registration Number:** 25BCE10299
+* **Name:** Manthan Bobade
+* **Registration Number:** 25BCE10321
 * **Branch:** Computer Science Engineering (CSE)
 * **Year:** 1st Year
 
@@ -72,7 +72,7 @@ The complete project report is available in the `report/` folder.
 
 ## 🔗 Task 3: Digital Literacy Quiz
 
-👉 https://forms.gle/rBMTe4b8p2Qpj4GE9
+👉 https://docs.google.com/forms/d/e/1FAIpQLSfklDz2gBjGYSsoaUZrniDHS9YXZWzE9a8CYXijrTY1_Z3aaA/viewform?usp=publish-editor
 
 ---
 
