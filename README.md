@@ -33,7 +33,7 @@ The project is organized into five tasks, each designed to develop practical kno
 
   * GitHub
   * LinkedIn
-  * Stack Overflow
+  * Kaggle
 * Built a GitHub profile README
   📁 **Folder:** `task-2-portfolio/`
 
