@@ -8,4 +8,4 @@ For this task, I explored both coding and collaboration tools.
 
 📁 Folder: task-3-platforms/
 
-🔗 Google Form Link:https://forms.gle/rBMTe4b8p2Qpj4GE9
+🔗 Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLSfklDz2gBjGYSsoaUZrniDHS9YXZWzE9a8CYXijrTY1_Z3aaA/viewform?usp=publish-editor
