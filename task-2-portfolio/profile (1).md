@@ -1,11 +1,11 @@
-# Hi, I'm Rasesh Varshney 👋
+# Hi, I'm Manthan Bobade 👋
 
 🎓 First Year CSE Student at VIT Bhopal  
 💻 Passionate about learning programming and technology  
 🚀 Currently exploring GitHub and coding platforms  
 
 ## 📌 About Me
-- Name: Rasesh Varshney  
+- Name: Manthan Bobade 
 - Branch: Computer Science Engineering (CSE)  
 - Year: 1st Year  
 
@@ -15,4 +15,4 @@
 - Improve problem-solving skills  
 
 ## 🔗 Connect with Me
-- LinkedIn:www.linkedin.com/in/rasesh-varshney-2364ab371
+- LinkedIn:www.linkedin.com/in/manthan-bobade-ba8a263bb
